@@ -11,6 +11,7 @@ body.append(container);
 const display = document.createElement("div");
 display.classList.add("display");
 container.append(display);
+//number
 const number = document.createElement("p");
 number.innerHTML = 0;
 display.append(number);
@@ -37,7 +38,7 @@ buttonContainer.append(buttonDecrease);
 const footer = document.createElement("footer");
 body.append(footer);
 const p = document.createElement("p");
-p.innerHTML = `Made With <span>❤</span> by Ivano Bruno`;
+p.innerHTML = `Made with <span>❤</span> by Ivano Bruno`;
 footer.append(p);
 //counter
 let i = 0;
