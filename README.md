@@ -2,7 +2,7 @@
 ![screencapture-127-0-0-1-3001-Start2Impact-JavaScriptBasics-index-html-2022-09-30-15_18_13](https://user-images.githubusercontent.com/107309358/193289372-57986f48-6b3d-4ba8-9044-e59276458224.png)
 
 <h2 align="center">
-  <a href="https://javascript-counter-project-ivanobruno.netlify.app/">Website</a>
+  <a target="_blank" href="https://javascript-counter-project-ivanobruno.netlify.app/">Website</a>
 </h2>
 
 ## Table of Contents
