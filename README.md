@@ -1,7 +1,9 @@
 # Javascript Counter Project
 ![screencapture-127-0-0-1-3001-Start2Impact-JavaScriptBasics-index-html-2022-09-30-15_18_13](https://user-images.githubusercontent.com/107309358/193289372-57986f48-6b3d-4ba8-9044-e59276458224.png)
 
-<a href="https://javascript-counter-project-ivanobruno.netlify.app/">Website</a>
+<h2 align="center">
+  <a href="https://javascript-counter-project-ivanobruno.netlify.app/">Website</a>
+</h2>
 
 ## Table of Contents
 1. [General Info](#general-info)
@@ -41,5 +43,6 @@ To run this project:
 * No license
 
 ## Contact_Information
-You can contact me at: ivanobruno2@gmail.com or on LinkedIn: @IvanoBruno
-
+You can contact me at:
+Email: ivanobruno2@gmail.com
+LinkedIn: @IvanoBruno
