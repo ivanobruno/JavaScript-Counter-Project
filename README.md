@@ -41,4 +41,5 @@ To run this project:
 * No license
 
 ## Contact_Information
-You can contact me at: ivanobruno2@gmail.com or on LinkedIn: @luigilesca
+You can contact me at: ivanobruno2@gmail.com or on LinkedIn: @IvanoBruno
+
