@@ -8,7 +8,7 @@ const createElement = (tag, text, classname, parent) => {
     return element;
 };
 //Element
-const h1 = createElement("h1", "Progetto JavaScript Basic", "title", document.body);
+const h1 = createElement("h1", "Progetto JavaScript Basics", "title", document.body);
 const container = createElement("div", "", "container", document.body);
 const display = createElement("div", "", "display", container);
 const number = createElement("p", "0", "number", display);
