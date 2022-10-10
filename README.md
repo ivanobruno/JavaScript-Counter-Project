@@ -44,5 +44,5 @@ To run this project:
 
 ## Contact_Information
 You can contact me at:
-Email: ivanobruno2@gmail.com
+Email: ivanobruno2@gmail.com <br> 
 LinkedIn: @IvanoBruno
