@@ -29,11 +29,9 @@ button.addEventListener("click", function (num) {
         } else if (i == 0){
             number.style.color="#000000";
         };
-        number.innerHTML = i;
     } else if (num.target.matches(".button-reset")){
         i = 0;
         number.style.color="#000000";
-        number.innerHTML = i;
     } else if (num.target.matches(".button-decrease")){
         i--;
         if (i<0){
@@ -41,6 +39,6 @@ button.addEventListener("click", function (num) {
         } else if (i == 0){
             number.style.color="#000000";
         };
-        number.innerHTML = i;
     };
+    number.innerHTML = i;
 });
